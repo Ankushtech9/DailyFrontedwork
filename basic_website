@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body style="background-color: yellow;">
+    <h1 style="text-align: center; color: chocolate; background: rebeccapurple;" ><b> INFOMAX</b> <br>computer <br>academy</h1>
+    <h1 style=" background-color :red; width: 5000px; height: 2px;"></h1>
+   <h2> <a style="color: chocolate ;" href="google.com">home ||</a> <a style="color: chocolate ;" href="google.com">home ||</a> <a style="color: chocolate ;" href="google.com">home ||</a> <a style="color: chocolate ;" href="google.com">home ||</a> </h2>
+
+    <h1 style=" background-color :red; width: 5000px; height: 2px;"></h1>
+    <h1> <b>who we are</b></h1>
+    <p>Lorem ipsum, dolor sit amet consectetur <br>adipisicing elit. Eaque exercitationem, <br> ab dignissimos officia asperiores  <br> error ex sunt eos et non, eveniet unde amet <br>consequatur earum corrupti ullam. Error, cum!</p>
+     <p style="margin-right: 50%; ">Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloremque aliquam atque maiores nihil facilis ut dolor consectetur, accusamus at sunt blanditiis quas repudiandae dolorem amet ducimus natus voluptatum, laboriosam facere.</p>
+    
+    <img style="margin-left: 60%; margin-bottom: 80%;" src="https://www.shutterstock.com/image-vector/young-good-looking-man-doing-600nw-1960859527.jpg">
+    <iframe src="https://www.bing.com/" frameborder="10">bing</iframe>
+    
+</body>
+</html>
