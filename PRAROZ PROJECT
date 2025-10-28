@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<link rel="stylesheet" href="proroz.css">
+<body>
+    <div class="navbar">
+        <div class="left">
+            <h1>PraRoz</h1>
+
+        </div>
+        <div class="right">
+            <li class="li1">HOME</li>
+            <li class="li1">ABOUT</li>
+            <li class="li1">SERVICE</li>
+            <li class="li1">CONTACT</li>
+
+        </div>
+    </div>
+    <div class="leftside">
+        <h1>Web Design &</h1>
+        <h2>Developement</h2>
+        <h3>Course</h3>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Alias, culpa.</p>
+        <div class="btn">JOIN US</div>
+    </div>
+    <div class="rightlogin">
+        <div class="loginhere">
+            <h1>Login Here</h1>
+            <div class="inp1">
+            <input type="text" placeholder="enter your name" name="inp">
+            </div>
+            <div class="inp1">
+            <input type="email" placeholder="enter your email">
+            </div>
+            <input type="submit" class="btn2">
+            <p class="p1">dont have an accoutn</p>
+            <p class="p2">here</p>
+            <p class="p3">log in with</p>
+            <div class="iconbar">
+                <img src="https://img.icons8.com/?size=100&id=M486asakOqWV&format=png&color=000000" alt="" >
+                <img src="https://img.icons8.com/?size=100&id=118467&format=png&color=000000" alt="" >
+                <img src="https://img.icons8.com/?size=100&id=phOKFKYpe00C&format=png&color=000000" alt="">
+                <img src="https://img.icons8.com/?size=100&id=12599&format=png&color=000000" alt="">
+                <img src="https://img.icons8.com/?size=100&id=17950&format=png&color=000000" alt="">
+            </div>
+        </div>
+    </div>
+</body>
+</html>
+
